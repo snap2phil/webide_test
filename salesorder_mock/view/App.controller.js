@@ -1,0 +1,1 @@
+sap.ui.core.mvc.Controller.extend("salesorder_mock.view.App", {});

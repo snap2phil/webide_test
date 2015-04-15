@@ -1,0 +1,11 @@
+[{
+	"OrderId": "12345",
+	"DocumentType": "contract",
+	"DocumentDate": "/Date(1429048800000)/",
+	"CustomerId": "98765",
+	"SalesOrg": "emea",
+	"DistChannel": "retail",
+	"Division": "emea",
+	"OrderValue": 4000,
+	"Currency": "euro"
+}]
